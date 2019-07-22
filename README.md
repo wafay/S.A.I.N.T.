@@ -10,6 +10,17 @@ Imagine making a server for the masses, of course you want to protect it against
 
 # Usage
 
+Local Usage:
+Make sure you have supplied a bot token.
 Use `git clone (link of repository)` to clone the repo. You'll need Node.js to run the bot.
 Open your command line (Command Prompt for Windows, Shell (Bash) for Linux, or Terminal for macOS)
 And use `node saint.js` to start the bot, and let 'er rip!
+
+Server-wide usage:
+Click on this invite link for the bot. You'll need administrator permissions to proceed.
+https://discordapp.com/oauth2/authorize?client_id=584352445786750977&permissions=8&scope=bot
+
+# Help
+
+If you need any help, join our Discord server.
+https://discord.gg/3QQmAYG
