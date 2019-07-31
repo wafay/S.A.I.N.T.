@@ -1,0 +1,5 @@
+{
+    "token": "", // Supply your bot token here.
+    "prefix": "sb!",
+    "owner": "" // Supply your Discord User ID (not the tag!)
+}

@@ -1,0 +1,16 @@
+{
+  "name": "S.A.I.N.T.",
+  "version": "1.0.0",
+  "description": "A Discord bot focused on security, programmed entirely using Discord.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "BlackFrank",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "eslint": "^5.16.0"
+  }
+}
