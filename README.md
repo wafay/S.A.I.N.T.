@@ -22,5 +22,5 @@ https://discordapp.com/oauth2/authorize?client_id=584352445786750977&permissions
 
 # Help
 
-If you need any help, join our Discord server.
+If you need any help, join our Discord server. (please join, it's really empty there. ;-;)
 https://discord.gg/3QQmAYG
